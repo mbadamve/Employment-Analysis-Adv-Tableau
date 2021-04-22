@@ -25,13 +25,14 @@ Requirements: Tableau Desktop 2020.4
 ## Visualization Highlights:
 
 <img width="500" alt="Screen Shot 2021-04-22 at 3 16 02 PM" src="https://user-images.githubusercontent.com/60490190/115772894-a803e880-a37d-11eb-8f42-30a9166d16e5.png">
+Sum of Population Estimate 2019 for each State.  Color shows sum of Population Estimate 2019. The context is filtered on State, which keeps 50 of 50 members.
 
 <img width="500" alt="Screen Shot 2021-04-22 at 3 18 28 PM" src="https://user-images.githubusercontent.com/60490190/115773416-4728e000-a37e-11eb-9a13-32cde73f71c3.png">
-
+Sum of Population Estimate 2019 for each County broken down by State.  Color shows details about County. The context is filtered on State, which keeps 50 of 50 members. The data is filtered on Action (State). The Action (State) filter keeps 50 members. The Action (State) filter keeps 1 member (Florida).
 
 <img width="500" alt="Screen Shot 2021-04-22 at 3 18 42 PM" src="https://user-images.githubusercontent.com/60490190/115773415-4728e000-a37e-11eb-917a-99a96315fcc7.png">
 
-<img width="500" alt="Screen Shot 2021-04-22 at 3 18 53 PM" src="https://user-images.githubusercontent.com/60490190/115773411-46904980-a37e-11eb-8eed-5db9b5790c24.png">
+<img width="500" alt="Screen Shot 2021-04-22 at 3 40 05 PM" src="https://user-images.githubusercontent.com/60490190/115775542-041c3c00-a381-11eb-8884-4614cf3e692f.png">
 
 <img width="500" alt="Screen Shot 2021-04-22 at 3 19 03 PM" src="https://user-images.githubusercontent.com/60490190/115773251-15177e00-a37e-11eb-9078-f91c7a60a508.png">
 
