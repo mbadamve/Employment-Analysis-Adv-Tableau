@@ -10,5 +10,9 @@ employment and economy is improving, static, or declining
 5. Study the statistics of people claiming Economic Impact Payment 
 (stimulus payments)
 
+Requirements: Tableau Desktop 2020.
+
+<img width="1239" alt="Screen Shot 2021-04-22 at 3 16 02 PM" src="https://user-images.githubusercontent.com/60490190/115772894-a803e880-a37d-11eb-8f42-30a9166d16e5.png">
+
 ## Visualization Highlights:
 
