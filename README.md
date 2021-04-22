@@ -21,6 +21,12 @@ Requirements: Tableau Desktop 2020.4
 2. Select top N counties per state by industry
 3. Analyze employment by education by state
 4. Dashboard view with filters and parameters for quick insights
+## Key Insights:
+1. Across the United States, **Services industries** are employing majority of Population
+2. Of all, **California, New York, Texas and Washington** are the top states for employment in the service industries.
+3. Top candidates hold **Bachelors degree or some college degree** across the United States
+
+Note: Likewise, the viewer can explore more insights based on his/her interests
 
 ## Visualization Highlights:
 
