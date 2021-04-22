@@ -24,4 +24,9 @@ Requirements: Tableau Desktop 2020.4
 <img width="1407" alt="Screen Shot 2021-04-22 at 3 18 42 PM" src="https://user-images.githubusercontent.com/60490190/115773415-4728e000-a37e-11eb-917a-99a96315fcc7.png">
 <img width="1407" alt="Screen Shot 2021-04-22 at 3 18 28 PM" src="https://user-images.githubusercontent.com/60490190/115773416-4728e000-a37e-11eb-9a13-32cde73f71c3.png">
 
+## Features:
 
+1. Drilldown from country to county level for detailed analysis
+2. Select top N counties per state by industry
+3. Analyze employment by education by state
+4. Dashboard view with filters and parameters for quick insights
