@@ -2,6 +2,8 @@
 
 # Labor Statistics using Advanced Tableau
 
+This project is a pilot for labor statistics analystics in the U.S.A. The data source can be found at https://www.bls.gov/. Using web scraping technique in Python, I have downloaded one year of data for the insights.
+
 ## Objective/Scope: 
 The objectives of the project
 1. Study labor force statistics in the USA
@@ -30,3 +32,6 @@ Requirements: Tableau Desktop 2020.4
 2. Select top N counties per state by industry
 3. Analyze employment by education by state
 4. Dashboard view with filters and parameters for quick insights
+
+References:
+- Web scraped data from https://www.bls.gov/
